@@ -37,7 +37,7 @@
   "dependencies": {
     "@babel/runtime": "^7.7.7",
     "@tarojs/components": "3.0.5",
-    "@tarojs/extend": "^3.0.13",
+    "@tarojs/extend": "^3.0.14",
     "@tarojs/runtime": "3.0.5",
     "@tarojs/taro": "3.0.5",
     "vue": "^2.5.0",
